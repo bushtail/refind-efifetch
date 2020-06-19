@@ -1,2 +1,5 @@
 # refind-efifetch
-Applying neofetch to rEFInd.
+
+neofetch theme for the rEFInd boot manager
+
+![Screenshot](https://imgur.com/a/hOnesEd)
