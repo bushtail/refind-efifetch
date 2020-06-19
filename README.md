@@ -2,7 +2,7 @@
 
 neofetch theme for the rEFInd boot manager
 
-![Screenshot](https://i.imgur.com/VZGGvjf.png)
+![Screenshot](https://i.imgur.com/kQ1ZsoM.png)
 
 ## Installation
 
