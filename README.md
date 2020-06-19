@@ -1,6 +1,6 @@
 # refind-efifetch
 
-neofetch theme for the rEFInd boot manager
+`neofetch` theme for the rEFInd boot manager
 
 ![Screenshot](https://i.imgur.com/kQ1ZsoM.png)
 
